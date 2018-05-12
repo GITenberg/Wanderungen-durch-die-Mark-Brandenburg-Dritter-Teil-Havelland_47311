@@ -1,4 +1,8 @@
 _repo: Wanderungen-durch-die-Mark-Brandenburg-Dritter-Teil-Havelland_47311
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47311-h/images/cover.jpg
 creator:
   author:
     agent_name: Fontane, Theodor
@@ -14,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Theodor_Fontane
     - http://de.wikipedia.org/wiki/Theodor_Fontane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47311#Wanderungen-durch-die-Mark-Brandenburg-Dritter-Teil-Havelland
 gutenberg_issued: '2014-11-08'
 gutenberg_type: Text
 identifiers:
